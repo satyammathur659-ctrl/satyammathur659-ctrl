@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Satyam Mathur  
+## 👋 Hi, I'm Satyam Kumar 
 Aspiring Data Scientist | Python | Pandas | SQL | Machine Learning
 
 🎯 Goal: Turn data into actionable insights
